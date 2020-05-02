@@ -4,7 +4,7 @@ class Dog
   end
 
   def doggy
-    @set_name = dog_name
+    @set_name = @dog_name
   end
 
   def bark
