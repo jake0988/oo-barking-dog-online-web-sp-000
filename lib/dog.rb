@@ -6,4 +6,8 @@ class Dog
   def doggy
     @set_name = dog_name
   end
+
+  def bark
+    puts "Wooof!"
+  end
 end
